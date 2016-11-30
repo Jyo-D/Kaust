@@ -1,0 +1,106 @@
+2016-11-29 12:11:14,345 INFO  [Log] **************************************************************************************** 
+2016-11-29 12:11:14,346 INFO  [Log] **************************************************************************************** 
+2016-11-29 12:11:14,346 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-29 12:11:14,346 INFO  [Log] **************************************************************************************** 
+2016-11-29 12:11:14,346 INFO  [Log] **************************************************************************************** 
+2016-11-29 12:11:14,839 INFO  [Log] Excel sheet opened 
+2016-11-29 12:11:14,839 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-11-29 12:11:17,268 INFO  [Log] New driver instantiated 
+2016-11-29 12:11:17,274 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-11-29 12:11:28,143 INFO  [Log] Web application launched successfully 
+2016-11-29 12:11:29,350 INFO  [Log] page loades in the browser 
+2016-11-29 12:11:29,457 INFO  [Log] Username displayed is true  
+2016-11-29 12:11:29,457 INFO  [Log] Username Enabled  is true  
+2016-11-29 12:11:29,458 INFO  [Log] Username text box is found on the Login Page 
+2016-11-29 12:11:29,505 INFO  [Log] billorr is entered in UserName text box 
+2016-11-29 12:11:29,541 INFO  [Log] Password text box is found on the Login page 
+2016-11-29 12:11:29,587 INFO  [Log] Kaust.1234 is entered in Password text box 
+2016-11-29 12:11:29,623 INFO  [Log] Submit button is found on the Login page 
+2016-11-29 12:11:47,205 INFO  [Log] Click action is performed on Submit button 
+2016-11-29 12:11:47,206 INFO  [Log] page loades in the browser 
+2016-11-29 12:12:49,786 INFO  [Log] RFS displayed is true  
+2016-11-29 12:12:49,787 INFO  [Log] RFS Enabled  is true  
+2016-11-29 12:12:49,787 INFO  [Log] Username text box is found on the Login Page 
+2016-11-29 12:13:44,381 INFO  [Log] Click action is performed on RFS button clicked 
+2016-11-29 12:13:44,486 INFO  [Log] click on drop down starts 
+2016-11-29 12:13:48,556 INFO  [Log] RFS select dropdown displayed is true  
+2016-11-29 12:13:48,556 INFO  [Log] RFS select dropdown Enabled  is true  
+2016-11-29 12:13:48,556 INFO  [Log] drop down displayed and enebled  
+2016-11-29 12:13:48,556 INFO  [Log] drop down returns element  
+2016-11-29 12:13:52,741 INFO  [Log] nano fabric  is true  
+2016-11-29 12:13:52,742 INFO  [Log] nano fabric is true  
+2016-11-29 12:13:52,742 INFO  [Log] drop element returns nano select  
+2016-11-29 12:13:52,810 INFO  [Log] Click on nano fabric 
+2016-11-29 12:13:57,918 INFO  [Log] next btn is true  
+2016-11-29 12:13:57,918 INFO  [Log] next btn is true  
+2016-11-29 12:13:57,918 INFO  [Log] next btn has passed element 
+2016-11-29 12:14:01,580 INFO  [Log] Click btn next button clicked 
+2016-11-29 12:14:06,676 INFO  [Log] sample_Section is true  
+2016-11-29 12:14:06,676 INFO  [Log] sample_Section is true  
+2016-11-29 12:14:06,676 INFO  [Log] sample_Section has passed element 
+2016-11-29 12:14:07,580 INFO  [Log] Click btn next button clicked 
+2016-11-29 12:14:07,580 INFO  [Log] calender method starts  
+2016-11-29 12:14:12,662 INFO  [Log] sample_Section is true  
+2016-11-29 12:14:12,662 INFO  [Log] sample_Section is true  
+2016-11-29 12:14:12,662 INFO  [Log] calender_RFS_Sev_Ses has passed element 
+2016-11-29 12:14:13,160 INFO  [Log] Click btn next button clicked 
+2016-11-29 12:14:18,411 ERROR [Log]  calender_RFS_Sev_Ses has fail in catch  
+2016-11-29 12:14:19,346 ERROR [Log] Cannot find elements when the XPath expression is null. 
+2016-11-29 12:14:19,350 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-29 12:14:19,350 INFO  [Log] X 
+2016-11-29 12:14:19,350 INFO  [Log] X 
+2016-11-29 12:14:19,350 INFO  [Log] X 
+2016-11-29 12:14:19,350 INFO  [Log] X 
+2016-11-29 17:07:25,673 INFO  [Log] **************************************************************************************** 
+2016-11-29 17:07:25,674 INFO  [Log] **************************************************************************************** 
+2016-11-29 17:07:25,674 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-11-29 17:07:25,674 INFO  [Log] **************************************************************************************** 
+2016-11-29 17:07:25,674 INFO  [Log] **************************************************************************************** 
+2016-11-29 17:07:26,176 INFO  [Log] Excel sheet opened 
+2016-11-29 17:07:26,176 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-11-29 17:07:28,664 INFO  [Log] New driver instantiated 
+2016-11-29 17:07:28,669 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-11-29 17:07:36,839 INFO  [Log] Web application launched successfully 
+2016-11-29 17:07:38,058 INFO  [Log] page loades in the browser 
+2016-11-29 17:07:38,130 INFO  [Log] Username displayed is true  
+2016-11-29 17:07:38,131 INFO  [Log] Username Enabled  is true  
+2016-11-29 17:07:38,131 INFO  [Log] Username text box is found on the Login Page 
+2016-11-29 17:07:38,179 INFO  [Log] billorr is entered in UserName text box 
+2016-11-29 17:07:38,215 INFO  [Log] Password text box is found on the Login page 
+2016-11-29 17:07:38,262 INFO  [Log] Kaust.1234 is entered in Password text box 
+2016-11-29 17:07:38,296 INFO  [Log] Submit button is found on the Login page 
+2016-11-29 17:08:04,639 INFO  [Log] Click action is performed on Submit button 
+2016-11-29 17:08:04,640 INFO  [Log] page loades in the browser 
+2016-11-29 17:08:05,049 INFO  [Log] RFS displayed is true  
+2016-11-29 17:08:05,049 INFO  [Log] RFS Enabled  is true  
+2016-11-29 17:08:05,049 INFO  [Log] Username text box is found on the Login Page 
+2016-11-29 17:08:50,630 INFO  [Log] Click action is performed on RFS button clicked 
+2016-11-29 17:08:50,690 INFO  [Log] click on drop down starts 
+2016-11-29 17:08:54,827 INFO  [Log] RFS select dropdown displayed is true  
+2016-11-29 17:08:54,827 INFO  [Log] RFS select dropdown Enabled  is true  
+2016-11-29 17:08:54,827 INFO  [Log] drop down displayed and enebled  
+2016-11-29 17:08:54,827 INFO  [Log] drop down returns element  
+2016-11-29 17:08:59,009 INFO  [Log] nano fabric  is true  
+2016-11-29 17:08:59,009 INFO  [Log] nano fabric is true  
+2016-11-29 17:08:59,009 INFO  [Log] drop element returns nano select  
+2016-11-29 17:08:59,076 INFO  [Log] Click on nano fabric 
+2016-11-29 17:09:04,163 INFO  [Log] next btn is true  
+2016-11-29 17:09:04,164 INFO  [Log] next btn is true  
+2016-11-29 17:09:04,164 INFO  [Log] next btn has passed element 
+2016-11-29 17:09:07,507 INFO  [Log] Click btn next button clicked 
+2016-11-29 17:09:12,599 INFO  [Log] sample_Section is true  
+2016-11-29 17:09:12,599 INFO  [Log] sample_Section is true  
+2016-11-29 17:09:12,599 INFO  [Log] sample_Section has passed element 
+2016-11-29 17:09:13,411 INFO  [Log] Click btn next button clicked 
+2016-11-29 17:09:13,411 INFO  [Log] calender method starts  
+2016-11-29 17:09:18,496 INFO  [Log] sample_Section is true  
+2016-11-29 17:09:18,496 INFO  [Log] sample_Section is true  
+2016-11-29 17:09:18,496 INFO  [Log] calender_RFS_Sev_Ses has passed element 
+2016-11-29 17:09:19,035 INFO  [Log] Click btn next button clicked 
+2016-11-29 17:09:24,315 ERROR [Log]  calender_RFS_Sev_Ses has fail in catch  
+2016-11-29 17:09:24,715 ERROR [Log] Cannot find elements when the XPath expression is null. 
+2016-11-29 17:09:24,718 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-11-29 17:09:24,718 INFO  [Log] X 
+2016-11-29 17:09:24,718 INFO  [Log] X 
+2016-11-29 17:09:24,718 INFO  [Log] X 
+2016-11-29 17:09:24,718 INFO  [Log] X 
